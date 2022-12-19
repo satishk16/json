@@ -11,12 +11,12 @@
 		},
 		{
 			"id": 2,
-			"title": "Get your Insulin Dose",
-			"sub_title": "Calculated by our AI Tool",
+			"title": "Get your Insulin Dose\nCalculated by our AI Tool",
+			"sub_title": "",
 			"desc": "Visit https://fitto-vide.fitto-at.com/",
 			"url": "https://fitto-vide.fitto-at.com/",
 			"rate": "VIDE",
-			"rate_desc": "Promo Code"
+			"rate_desc": ""
 		},
 		{
 			"id": 3,
