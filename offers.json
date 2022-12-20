@@ -5,7 +5,7 @@
 			"id": 2,
 			"title": "Check Insulin Dose -",
 			"sub_title": "Eat and Cheat",
-			"desc": "Visit https://fitto-vide.fitto-at.com/",
+			"desc": "Visit fitto-vide.fitto-at.com/",
 			"url": "https://fitto-vide.fitto-at.com/",
 			"rate": "VIDE",
 			"rate_desc": "Vvvvv"
@@ -14,7 +14,7 @@
 			"id": 3,
 			"title": "Bothered by Dengue?",
 			"sub_title": "Check risks!",
-			"desc": "Visit https://fitto-predictor.fitto-at.com/",
+			"desc": "Visit fitto-predictor.fitto-at.com/",
 			"url": "https://fitto-predictor.fitto-at.com/",
 			"rate": "DSSp",
 			"rate_desc": "Dddddd"
@@ -26,7 +26,7 @@
 			"desc": "Visit fitto-thydor.fitto-at.com/",
 			"url": "https://fitto-thydor.fitto-at.com/",
 			"rate": "THYDOR",
-			"rate_desc": "Ttttt"
+			"rate_desc": ""
 		}
 
 	]
