@@ -8,7 +8,7 @@
 			"desc": "Visit fitto-vide.fitto-at.com/",
 			"url": "https://fitto-vide.fitto-at.com/",
 			"rate": "VIDE",
-			"rate_desc": "Vvvvv"
+			"rate_desc": ""
 		},
 		{
 			"id": 3,
@@ -17,7 +17,7 @@
 			"desc": "Visit fitto-predictor.fitto-at.com/",
 			"url": "https://fitto-predictor.fitto-at.com/",
 			"rate": "DSSp",
-			"rate_desc": "Dddddd"
+			"rate_desc": ""
 		},
 		{
 			"id": 4,
@@ -25,7 +25,7 @@
 			"sub_title": "We help with Meds",
 			"desc": "Visit fitto-thydor.fitto-at.com/",
 			"url": "https://fitto-thydor.fitto-at.com/",
-			"rate": "THYDOR",
+			"rate": "THYDOR®",
 			"rate_desc": ""
 		}
 
