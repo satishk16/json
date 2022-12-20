@@ -1,40 +1,32 @@
 {
 	"offers": [
-		{
-			"id": 1,
-			"title": "COVID Care",
-			"sub_title": "@ Home",
-			"desc": "visit fitto-at.com/covid-care/",
-			"url": "https://fitto-at.com/covid-care/",
-			"rate": "Rs. 3000",
-			"rate_desc": "Promo Code"
-		},
+		
 		{
 			"id": 2,
-			"title": "Get your Insulin Dose",
-			"sub_title": "@ Our AI Tool",
+			"title": "Check Insulin Dose - ",
+			"sub_title": "Eat and Cheat",
 			"desc": "Visit https://fitto-vide.fitto-at.com/",
 			"url": "https://fitto-vide.fitto-at.com/",
 			"rate": "VIDE",
-			"rate_desc": ""
+			"rate_desc": "Vvvvv"
 		},
 		{
 			"id": 3,
-			"title": "Suffering with Dengue?",
-			"sub_title": "Know the risk by our AI Tool",
+			"title": "Bothered by Dengue?",
+			"sub_title": "Check risks!",
 			"desc": "Visit https://fitto-predictor.fitto-at.com/",
 			"url": "https://fitto-predictor.fitto-at.com/",
-			"rate": "DSS",
-			"rate_desc": ""
+			"rate": "DSSp",
+			"rate_desc": "Dddddd"
 		},
 		{
 			"id": 4,
-			"title": "Diagnosed with Hyperthyroidism",
-			"sub_title": "Regulate your Meds",
+			"title": "Thyroid on Overdrive?",
+			"sub_title": "We help with Meds",
 			"desc": "Visit https://fitto-thydor.fitto-at.com/",
 			"url": "https://fitto-thydor.fitto-at.com/",
-			"rate": "",
-			"rate_desc": ""
+			"rate": "THYDOR",
+			"rate_desc": "Ttttt"
 		}
 
 	]
