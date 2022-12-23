@@ -2,69 +2,19 @@
 	"offers": [
 		{
 			"id": 1,
-			"title": "Want an Ice Cream,But",
-			"sub_title": "Worried?",
-			"desc": "Visit fitto-vide.fitto-at.com/",
-			"url": "https://fitto-vide.fitto-at.com/",
-			"rate": "VIDE",
-			"rate_desc": ""
-		},
-		{
-			"id": 2,
-			"title": "Bothered by Dengue?",
-			"sub_title": "Check risks!",
-			"desc": "Visit fitto-predictor.fitto-at.com/",
-			"url": "https://fitto-predictor.fitto-at.com/",
-			"rate": "DSSp",
-			"rate_desc": ""
-		},
-		{
-			"id": 3,
-			"title": "Thyroid on Overdrive?",
-			"sub_title": "We help with Meds",
-			"desc": "Visit fitto-thydor.fitto-at.com/",
-			"url": "https://fitto-thydor.fitto-at.com/",
-			"rate": "THYDOR®",
-			"rate_desc": ""
-		},{
-			"id": 1,
-			"title": "Want a Cheat Day,But",
-			"sub_title": "Insulin Dose?!",
-			"desc": "Visit fitto-vide.fitto-at.com/",
-			"url": "https://fitto-vide.fitto-at.com/",
-			"rate": "VIDE",
-			"rate_desc": ""
-		},{
-			"id": 2,
-			"title": "Understand the DSS",
-			"sub_title": "Like we do",
-			"desc": "Visit fitto-predictor.fitto-at.com/",
-			"url": "https://fitto-predictor.fitto-at.com/",
-			"rate": "DSSp",
-			"rate_desc": ""
-		},{
-			"id": 1,
-			"title": "Check Insulin Dose -",
-			"sub_title": "Eat and Cheat",
-			"desc": "Visit fitto-vide.fitto-at.com/",
-			"url": "https://fitto-vide.fitto-at.com/",
-			"rate": "VIDE",
-			"rate_desc": ""
-		},{
-			"id": 3,
-			"title": "Thyroid on Overdrive?",
-			"sub_title": "We help with Meds",
-			"desc": "Visit fitto-thydor.fitto-at.com/",
-			"url": "https://fitto-thydor.fitto-at.com/",
-			"rate": "THYDOR®",
-			"rate_desc": ""
-		},{
-			"id": 1,
 			"title": "RUS GULLAS! Why not?",
-			"sub_title": "Use VIDE",
+			"sub_title": "Insulin-Dose?",
 			"desc": "Visit fitto-vide.fitto-at.com/",
 			"url": "https://fitto-vide.fitto-at.com/",
 			"rate": "VIDE",
+			"rate_desc": ""
+		},{
+			"id": 3,
+			"title": "Thyroid on Overdrive?",
+			"sub_title": "We Can Help U!",
+			"desc": "Visit fitto-thydor.fitto-at.com/",
+			"url": "https://fitto-thydor.fitto-at.com/",
+			"rate": "THYDOR®",
 			"rate_desc": ""
 		},{
 			"id": 2,
@@ -73,14 +23,6 @@
 			"desc": "Visit fitto-predictor.fitto-at.com/",
 			"url": "https://fitto-predictor.fitto-at.com/",
 			"rate": "DSSp",
-			"rate_desc": ""
-		},{
-			"id": 3,
-			"title": "Thyroid on Overdrive?",
-			"sub_title": "We help with Meds",
-			"desc": "Visit fitto-thydor.fitto-at.com/",
-			"url": "https://fitto-thydor.fitto-at.com/",
-			"rate": "THYDOR®",
 			"rate_desc": ""
 		}
 
